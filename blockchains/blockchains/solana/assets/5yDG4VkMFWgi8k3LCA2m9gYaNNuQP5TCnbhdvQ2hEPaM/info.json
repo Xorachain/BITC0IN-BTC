@@ -1,0 +1,15 @@
+{
+  "name": "BITC0IN",
+  "symbol": "BTC",
+  "type": "SOLANA",
+  "decimals": 6,
+  "description": "BITC0IN (BTC) is a Solana-based utility token.",
+  "website": "https://solscan.io/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+  "explorer": "https://solscan.io/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+  "status": "active",
+  "id": "5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM",
+  "links": {
+    "birdeye": "https://birdeye.so/token/5yDG4VkMFWgi8k3LCA2m9gYaNNuQP5TCnbhdvQ2hEPaM?chain=solana",
+    "geckoterminal": "https://www.geckoterminal.com/solana/pools/2dP93ZpoJshL2NBHxRLv5Q42GFxAzLYnJp6joELpUtte"
+  }
+}
